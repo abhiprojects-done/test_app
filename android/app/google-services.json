@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801947262302",
+    "project_id": "tezpurapp-df4a9",
+    "storage_bucket": "tezpurapp-df4a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801947262302:android:2f0c897dd8d879012ec3cf",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZNdE8mk4J5f3WnK9Q8lJdrqG9JMdV3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
